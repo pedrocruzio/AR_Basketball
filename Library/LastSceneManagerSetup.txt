@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/AR Basketball GO/Scenes/AR_Basketball_GO.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
